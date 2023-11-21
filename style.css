@@ -1,0 +1,56 @@
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box1{
+    background-color: grey;
+    box-shadow: 5px 5px rosybrown;
+    color: white;
+    font-size: 30px;
+    width: 100px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.box2{
+    background-color: grey;
+    box-shadow: 5px 5px rosybrown;
+    color: white;
+    font-size: 30px;
+    width: 100px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.box3{
+    background-color: grey;
+    box-shadow: 5px 5px rosybrown;
+    color: white;
+    font-size: 30px;
+    width: 100px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.boxesSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
